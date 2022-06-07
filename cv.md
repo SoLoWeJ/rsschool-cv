@@ -71,7 +71,7 @@ rsschool-cv-html
 - &#x1F6A9;Polish (Basic)
 <br>
 
-=======
+
  &#x1F6A9;English (C1 Advanced) [<img src="./img/c1-english.png" width="20" height="20">](https://www.efset.org/cert/s439P4)<br>
  &#x1F6A9;Lithuanian (Native)<br>
  &#x1F6A9;Russian (Spoken, Reading)<br>
