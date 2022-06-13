@@ -1,4 +1,4 @@
-# <img src="./img/profile-pic.png" width="165" height="200" alt="profile picture"> **David Zarecki**<br>
+# <img src="./assets/main/profile-pic.png" width="165" height="200" alt="profile picture"> **David Zarecki**<br>
 
 
 <br>
@@ -63,21 +63,15 @@ ___
 ___
 ## **Languages** <br>
 
-rsschool-cv-html
-- &#x1F6A9;English (C1 Advanced) [<img src="./img/c1-english.png" width="20" height="20">](https://www.efset.org/cert/s439P4)
-- &#x1F6A9;Lithuanian (Native)
-- &#x1F6A9;Russian (Spoken, Reading)
-- &#x1F6A9;Hebrew (Spoken, Writing, Reading)
-- &#x1F6A9;Polish (Basic)
+
+**[&#x1F6A9;English (C1 Advanced)](https://www.efset.org/cert/s439P4)**<br>
+**&#x1F6A9;Lithuanian (Native)**<br>
+**&#x1F6A9;Russian (Spoken, Reading)**<br>
+**&#x1F6A9;Hebrew (Spoken, Writing, Reading)**<br>
+**&#x1F6A9;Polish (Basic)**<br>
 <br>
 
 
- &#x1F6A9;English (C1 Advanced) [<img src="./img/c1-english.png" width="20" height="20">](https://www.efset.org/cert/s439P4)<br>
- &#x1F6A9;Lithuanian (Native)<br>
- &#x1F6A9;Russian (Spoken, Reading)<br>
- &#x1F6A9;Hebrew (Spoken, Writing, Reading)<br>
- &#x1F6A9;Polish (Basic)<br>
-gh-pages
 ____
 
 ### **Social Media** <br>
