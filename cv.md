@@ -1,4 +1,4 @@
-# <img src="./img/profile-pic.png" width="165" height="200" alt="profile picture"> **David Zarecki**<br>
+# <img src="./assets/main/profile-pic.png" width="165" height="200" alt="profile picture"> **David Zarecki**<br>
 
 
 <br>
