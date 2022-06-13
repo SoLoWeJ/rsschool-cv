@@ -1,0 +1,283 @@
+ @import url('https://fonts.googleapis.com/css?family=Montserrat:regular,700');
+ @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+ * {
+ 	box-sizing: border-box;
+ }
+
+ body {
+ 	max-width: 10240px;
+ 	min-width: 620px;
+ 	margin: 0 auto;
+ 	font-family: 'Montserrat', sans-serif;
+ 	padding: 2rem;
+ 	background-color: #E5E5E5;
+ }
+
+ .content {
+ 	max-width: 1024px;
+ 	margin: auto;
+ 	display: flex;
+ 	-webkit-box-shadow: 1px 81px 100px 5px rgba(0, 0, 0, 0.49);
+ 	-moz-box-shadow: 1px 81px 100px 5px rgba(0, 0, 0, 0.49);
+ 	box-shadow: 1px 81px 100px 5px rgba(0, 0, 0, 0.49);
+ }
+
+ .header {
+ 	margin-bottom: 4rem;
+ }
+
+ .profile_pic {
+ 	width: 100%;
+ 	margin: 0;
+ }
+
+ .profile_pic img {
+ 	width: 100%;
+ 	border: 5px hidden #ffffff;
+ 	border-radius: 200px;
+ 	-webkit-box-shadow: 5px 6px 32px 1px rgba(0, 0, 0, 0.49);
+ 	-moz-box-shadow: 5px 6px 32px 1px rgba(0, 0, 0, 0.49);
+ 	box-shadow: 5px 6px 32px 1px rgba(0, 0, 0, 0.49);
+ }
+
+ .about {
+ 	padding: 2rem;
+ 	width: 35%;
+ 	color: rgb(194, 175, 175);
+ 	background-color: #3d4d64;
+ 	display: flex;
+ 	flex-direction: column;
+ 	justify-content: flex-start;
+ 	align-items: stretch;
+ }
+
+ .about_title {
+ 	position: absolute;
+ 	margin-top: -99999999px;
+ }
+
+ .title {
+ 	text-transform: uppercase;
+ 	font-size: 20px;
+ 	text-shadow: #a53333 1px 1px 0;
+
+ }
+
+ .phone,
+ .whatsapp,
+ .email {
+ 	display: flex;
+ 	margin-bottom: 1rem;
+ }
+
+ .icon {
+ 	filter: invert(92%) sepia(29%) saturate(1916%) hue-rotate(358deg) brightness(95%) contrast(95%);
+ }
+
+ ul.phone,
+ ul.whatsapp,
+ ul.email li {
+ 	list-style-type: none;
+ 	font-size: 12px;
+
+ }
+
+ ul.phone,
+ ul.whatsapp,
+ ul.email a {
+ 	vertical-align: baseline;
+ }
+
+ ul.phone,
+ ul.whatsapp,
+ ul.email {
+ 	padding: 0;
+ }
+
+
+ .icons {
+ 	width: 2rem;
+
+ }
+
+ .tech_skill_list {
+ 	margin-bottom: 4rem;
+ 	font-size: 12px;
+
+ }
+
+ .tech_skill_list li+li {
+ 	margin-top: 1rem;
+ }
+
+ .my_projects_list {
+ 	margin-bottom: 4rem;
+ 	font-size: 12px;
+ }
+
+ .my_projects_list li+li {
+ 	margin-top: 1rem;
+ }
+
+ .linguas_list {
+ 	/* margin-bottom: 4rem; */
+ 	font-size: 12px;
+ 	list-style-type: none;
+ }
+
+ .linguas_list li+li {
+ 	margin-top: 1rem;
+ }
+
+ .span {
+ 	font-weight: 700;
+ 	font-size: 12px;
+ }
+
+ .rss_logo img {
+ 	position: static;
+ 	margin-top: 6rem;
+ 	margin-left: 4rem;
+ 	width: 50%;
+ 	height: 15%;
+ 	/* background-position: center; */
+ 	/* background-size: contain;
+ 	background-repeat: no-repeat; */
+ 	outline: 11px outset rgb(228, 222, 222);
+ 	outline-offset: 0px;
+ }
+
+ .about_me {
+ 	padding: 1rem;
+ 	width: 75%;
+ 	color: rgb(61, 39, 39);
+ 	background-color: rgb(228, 222, 222);
+ }
+
+ .about_me h2 {
+ 	font-weight: 700;
+ 	font-size: 24px;
+ }
+
+ .about_me h1 {
+
+ 	font-weight: 700;
+ 	font-size: 45px;
+ }
+
+ .about_me_text {
+ 	padding-left: 0.625rem;
+ 	width: 75%;
+ 	font-size: 16px;
+ 	border: 1px solid;
+ }
+
+ .education {
+ 	margin-bottom: 1rem;
+ }
+
+ .description {
+ 	padding-left: 2rem;
+ 	display: flex;
+ 	font-size: 15px;
+ 	line-height: 1.5;
+ 	border-top: solid rgb(194, 175, 175);
+
+ }
+
+ .study {
+ 	width: 100%;
+ }
+
+ .study2 {
+ 	padding-left: 0.625rem;
+ 	width: 100%;
+ }
+
+ #link_cellphone,
+ #link_whatsapp,
+ #link_email,
+ #link_js,
+ #link_html,
+ #link_python,
+ #link_certificate {
+ 	text-decoration: none;
+ 	color: rgb(194, 175, 175);
+ }
+
+ #link_cellphone:hover,
+ #link_whatsapp:hover,
+ #link_email:hover,
+ #link_js:hover,
+ #link_html:hover,
+ #link_python:hover,
+ #link_certificate:hover {
+ 	color: #e66605;
+ }
+
+ #link_a {
+ 	text-decoration: none;
+ 	color: #312658;
+
+ }
+
+ #link_a:hover {
+ 	color: #e66605;
+ }
+
+ .work_one {
+ 	width: 100%;
+ }
+
+ .work_two {
+ 	padding-left: 0.625rem;
+ 	width: 100%;
+ }
+
+ .about_me_text_parag {
+ 	padding: 1.625rem;
+ }
+
+ .footer_items_list {
+ 	margin-top: 2rem;
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: space-around;
+ 	align-items: center;
+ 	outline: 11px outset rgba(28, 110, 164, 0.52);
+ 	outline-offset: 0px;
+ }
+
+ .footer_items_list li {
+ 	list-style-type: none;
+ }
+
+ .footer_items_list a i.fa-brands {
+ 	color: #e3522d;
+ 	font-size: 35px;
+
+ }
+
+ .footer__items__list li a i.fa-brands:hover {
+ 	color: #ede207;
+ }
+
+ .font {
+ 	font-family: 'Kdam Thmor Pro', sans-serif;
+ 	font-size: 12px;
+ }
+
+ i.fa-solid {
+ 	margin-top: 2rem;
+ 	font-size: 10px;
+ 	color: #981919;
+ }
+
+ .code {
+ 	margin-bottom: 4rem;
+ 	list-style-type: none;
+ 	font-size: 14px;
+ 	outline: 11px inset rgba(28, 110, 164, 0.52);
+ 	outline-offset: 0px;
+ }
